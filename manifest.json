@@ -1,0 +1,16 @@
+{
+  "name": "Yoga Sutra",
+  "short_name": "YogaSutra",
+  "start_url": "https://patanjali-yoga-sutra.glitch.me/",
+  "icons": [
+    {
+      "src": "https://cdn.glitch.global/23de2edf-a372-411a-a286-c657f7807502/icon-yoga-sutra.jpg",
+      "sizes": "256x256",
+      "type": "image/jpg"
+    }
+  ],
+  "theme_color": "#ffc266",
+  "background_color": "#ffc266",
+  "display": "fullscreen",
+  "orientation": "portrait"
+}

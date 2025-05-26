@@ -1,0 +1,990 @@
+[
+[
+{
+"shloka": "atha yoganushasanam",
+"meaning": "Now, therefore, complete instructions regarding yoga",
+"words" : "Atha: now therefore; yoga: (regarding) yoga; anuśāsanam: complete instructions"
+},
+{
+"shloka": "yogashchittavrittinirodhah",
+"meaning": "To block the patterns of consciousness is yoga",
+"words" : "Yogah: yoga; chitta: consciousness; vṛtti: patterns or circular patterns; nirodhaḥ: blocking, stopping"
+},
+{
+"shloka": "tada drashtuh svarupevasthanam",
+"meaning": "Then the seer is established (abides) in his own essential nature",
+"words" : "Tadā: then; draṣṭuḥ: seer; svarūpe: one’s own essential nature; avasthānam: establishment"
+},
+{
+"shloka": "vrittisarupyamitaratra",
+"meaning": "Or there is identification with the modifications of chitta",
+"words" : "Vṛtti: modification, pattern; sārūpyam: identification; itaratra: in other state"
+},
+{
+"shloka": "vrittayah panchatayyah klishtaklishtah",
+"meaning": "Modifications of mind are fivefold; they are painful or not painful",
+"words" : "Vṛttayaḥ: modifications of mind; pañchatayyaḥ: fivefold; kliṣṭā: painful, lit. hard, difficult; akliṣṭāḥ: not painful"
+},
+{
+"shloka": "pramanaviparyayavikalpanidrasmritayah",
+"meaning": "The fivefold modifications of mind are right knowledge, wrong knowledge, fancy, sleep and memory",
+"words" : "Pramāṇa: right knowledge; viparyaya: wrong knowledge; vikalpa: fancy, imagination; nidrā: sleep; smṛtayaḥ: memory"
+},
+{
+"shloka": "pratyakshanumanagamah pramanani",
+"meaning": "Direct cognition, inference and testimony are the sources of knowledge",
+"words" : "Pratyakṣa: direct cognition, sense evidence; anumāna: inference; āgama: testimony, revelation; pramāṇāni: the sources of right knowledge"
+},
+{
+"shloka": "viparyayo mithyajnyanamatadrupapratishtham",
+"meaning": "Wrong conception is false knowledge which is not based on its own form",
+"words" : "Viparyayah: misconception; mithyā: false, illusory; jñānam: knowledge; atat: not its own; rūpa: form; pratiṣṭham: based"
+},
+{
+"shloka": "shabdajnyananupati vastushunyo vikalpah",
+"meaning": "Following upon knowledge through words but empty of an object is fancy",
+"words" : "Śabda: word, sound; jñāna: cognition; anupāti: following upon; vastu: object; śūnyaḥ: empty; vikalpaḥ: fancy, imagination"
+},
+{
+"shloka": "abhavapratyayalambana vrittirnidra",
+"meaning": "Sleep is the vritti of absence of mental contents for its support",
+"words" : "Abhāva: absence; pratyaya: content of mind; ālambana: support; vṛttih: modification; nidrā: sleep"
+},
+{
+"shloka": "anubhutavishayasampramoshah smritih",
+"meaning": "Not letting the experienced objects escape from the mind is memory",
+"words" : "Anubhūta: experienced; viṣaya: objects of sense perception; asampramoṣaḥ: not letting escape; smṛtiḥ: memory"
+},
+{
+"shloka": "abhyasavairagyabhyam tannirodhah",
+"meaning": "The stopping of that (five vrittis) by repeated practice and vairagya",
+"words" : "Abhyāsa: repeated practice; vairāgyābhyāṃ: by vairagya; tat: that; nirodhaḥ: stopping, blocking"
+},
+{
+"shloka": "tatra sthitau yatnobhyasah",
+"meaning": "Of the two (mentioned in the previous sutra) 'to be established in the endeavour' is abhyasa",
+"words" : "Tatra: there, out of the two; sthitau: being fixed, established; yatnah: effort; abhyāsaḥ: practice"
+},
+{
+"shloka": "sa tu dirghakalanairantaryasatkarasevito dridhabhumih",
+"meaning": "It becomes firmly grounded by being continued for a long time with reverence, without interruption",
+"words" : "Sah: that (abhyāsa); tu: but; di rgha: long; kāla: time; nairantarya: without interruption; satkāra: reverence; āsevitaḥ: practised; dṛḍha: firm; bhūmiḥ: ground"
+},
+{
+"shloka": "drishtanushravikavishayavitrishnasya vashikarasanjnya vairagyam",
+"meaning": "When an individual becomes free of craving for the sense objects which he has experienced as well as those of which he has heard, that state of consciousness is vairagya",
+"words" : "Dṛṣṭa: seen; anuśravika: heard; viṣaya: object; vitṛṣṇasya: of the one who is free of desire (tṛṣṇā: craving, desire); vaśi kāra: control; sañjñā: awareness; vairāgyam: absence of craving"
+},
+{
+"shloka": "tatparam purushakhyatergunavaitrishnyam",
+"meaning": "That is highest in which there is freedom from the desire for gunas on account of the knowledge of purusha",
+"words" : "Tat: that; paraṃ: highest; puruṣakhyāteh: true knowledge of purusha; guṇavaitṛṣṇyaṃ: freedom from the desire for gunas"
+},
+{
+"shloka": "vitarkavicharanandasmitarupanugamat samprajnyatah",
+"meaning": "Samprajnata yoga constitutes association respectively with reasoning, reflection, bliss and sense of individuality",
+"words" : "Vitarka: reasoning; vichāra: reflection; ānanda: bliss; asmitā: sense of individuality; anugamāt: by association; samprajñātaḥ: samadhi with prajna"
+},
+{
+"shloka": "viramapratyayabhyasapurvah samskarasheshonyah",
+"meaning": "The other samadhi (asamprajnata) is preceded by a continued study of stopping the content of mind. In it the mind remains in the form of traces",
+"words" : "Virāma: stopping; pratyaya: content of mind; abhyāsa: continued practice; pūvaḥ: coming before; saṃskāraśeṣa: in which only the traces remain; anyaḥ: the other samadhi"
+},
+{
+"shloka": "bhavapratyayo videhaprakritilayanam",
+"meaning": "The videha and prakritilaya yogis have birth as the cause of asamprajnata samadhi",
+"words" : "Bhavapratyayah: birth is the cause; videha: disembodied yogis; prakṛtilayānām: the yogis who are merged into prakriti"
+},
+{
+"shloka": "shraddhaviryasmritisamadhiprajnyapurvaka itaresham",
+"meaning": "Others (other than those disembodied and merged into prakriti) attain to asamprajnata samadhi through the stages of faith, strong will, memory and intelligence derived from samprajnata samadhi respectively",
+"words" : "Śraddhā: faith; vi rya: energy, strong will; smṛti: memory; samādhiprajñā: intelligence arising from samadhi; pūvaka: preceded by; itareṣām: of others"
+},
+{
+"shloka": "tivrasamveganamasannah",
+"meaning": "Those who have an intense urge attain asamprajnata samadhi very soon",
+"words" : "Ti vra: intense; saṃvega: urge; āsannaḥ: quite near"
+},
+{
+"shloka": "mridumadhyadhimatratvat tatopi visheshah",
+"meaning": "With the intensity of urge rising through the mild, medium and strong conditions, asamprajnata samadhi can be achieved sooner",
+"words" : "Mṛdu: mild; madhya: medium; adhimātra: extremely strong; tvāt: due to; tatoapi: also, more than that; viśeṣaḥ: special, peculiar"
+},
+{
+"shloka": "ishvarapranidhanadva",
+"meaning": "Or by devotion to the Lord (asamprajnata samadhi can be attained)",
+"words" : "Īśvara: Lord; praṇidhānāt: devotion; vā: or"
+},
+{
+"shloka": "kleshakarmavipakashayairaparamrishtah purushavishesha ishvarah",
+"meaning": "God is a special soul untouched by afflictions, acts, their traces and their fruits",
+"words" : "Kleśa: afflictions; karmavipāka: fruits of acts; āśaya: store of the traces of past karma; aparāmṛṣṭaḥ: untouched; puruṣaviśeṣa: special kind of soul; Īśvaraḥ: God"
+},
+{
+"shloka": "tatra niratishayam sarvajnyabijam",
+"meaning": "In Ishwara there is the seed of limitless omniscience",
+"words" : "Tatra: there (in God); niratiśayaṃ: limitless; sarvajña: omniscient; bijam: principle, seed "
+},
+{
+"shloka": "sa purveshamapi guruh kalenanavachchhedat",
+"meaning": "Not being limited by time he is the guru of the earliest gurus",
+"words" : "Pūrveṣām: of those who came before; api: even; guruḥ: greater, teacher; kālena: by time; anavachhedāt: because unlimited by time"
+},
+{
+"shloka": "tasya vachakah pranavah",
+"meaning": "Aum is the word denoting God",
+"words" : "Tasya: of it; vāchakaḥ: designator, indicator; praṇavaḥ: Aum"
+},
+{
+"shloka": "tajjapastadarthabhavanam",
+"meaning": "That (the word Aum) should be recited repeatedly while dwelling mentally on its meaning",
+"words" : "Tat: that; japa: repetition of the word; tat: that; artha: meaning; bhāvanam: dwelling upon mentally"
+},
+{
+"shloka": "tatah pratyakchetanadhigamopyantarayabhavashcha",
+"meaning": "From that practice the consciousness turns inward and the obstacles are overcome",
+"words" : "Tataḥ: from that (practice of meditation on Aum); pratyak: turned in, in opposite direction; chetanā: consciousness; adhigama: attainment; api: also; antarāya: obstacle; abhāva: absence; cha: and"
+},
+{
+"shloka": "vyadhistyanasamshayapramadalasyaviratibhrantidarshanalabdhabhumikatvanavasthitatvani chittavikshepastentarayah",
+"meaning": "Disease, dullness, doubt, procrastination, laziness, craving, erroneous perception, inability to achieve finer stages and instability are the obstacles",
+"words" : "Vyādhi: disease; styāna: dullness; saṃśaya: doubt; pramāda: procrastination; ālasya: laziness; avirati: craving for enjoyment; bhrāntidarśana: erroneous perception; alabdhabhūmikatva: inability to achieve a finer state; anavasthitatva: instability; chittavikṣepāh: obstacle to the mind; te: they; antarāyāḥ: obstacles"
+},
+{
+"shloka": "duhkhadaurmanasyangamejayatvashvasaprashvasa vikshepasahabhuvah",
+"meaning": "Pain, depression, shaking of the body and unrhythmic breathing are the accompanying symptoms of mental distraction",
+"words" : "Duḥkha: pain; daurmanasya: depression; aṅgamejayatva: shaking of the body; śvāsapraśvāsā: inhalations and exhalations; vikṣepa: distraction; sahabhuvaḥ: accompanying symptom"
+},
+{
+"shloka": "tatpratishedharthamekatattvabhyasah",
+"meaning": "For removal of those (obstacles and accompanying symptoms) the practice of concentration on one principle (is to be done)",
+"words" : "Tat: that; pratiṣedhārtham: for removal; eka: one; tattva: principle; abhyāsaḥ: practice"
+},
+{
+"shloka": "maitrikarunamuditopekshanam sukhaduhkhapunyapunyavishayanam bhavanatashchittaprasadanam",
+"meaning": "In relation to happiness, misery, virtue and vice, by cultivating the attitudes of friendliness, compassion, gladness and indifference respectively, the mind becomes purified and peaceful",
+"words" : "Maitri : friendliness; karuṇā: compassion; muditā; gladness; upekṣāṇāṃ: indifference; sukha: happiness; duḥkha: misery; puṇya: virtue; apuṇya: vice; viṣayāṇāṃ: of the objects; bhāvanātaḥ: attitude; chitta: mind; prasādanam: purification, making peaceful"
+},
+{
+"shloka": "prachchhardanavidharanabhyam va pranasya",
+"meaning": "Or by expiration and retention of breath (one can control the mind)",
+"words" : "Prachchhardana: expiration or rechaka; vidhāraṇābhyāṃ: holding, kumbhaka; vā: or; prāṇasya: of breath"
+},
+{
+"shloka": "vishayavati va pravrittirutpanna manasah sthitinibandhini",
+"meaning": "Or else the mind can be made steady by bringing it into activity of sense experience",
+"words" : "Viṣayavati : sensuous; vā: or; pravṛttih: functioning; utpannā: arisen; manasaḥ: of the mind; sthiti: steadiness; nibandhani : which binds"
+},
+{
+"shloka": "vishoka va jyotishmati",
+"meaning": "Or the luminous state which is beyond sorrow (can control the mind)",
+"words" : "Viśokā: without sorrow; vā: or; jyotiṣmati : luminous, full of light"
+},
+{
+"shloka": "vitaragavishayam va chittam",
+"meaning": "Or else the mind can be brought under control by making passionless persons the object for concentrating the mind",
+"words" : "Vi tarāga: passionless person who has transcended raga; viṣayaṃ: object; vā: or, also; chittam: mind"
+},
+{
+"shloka": "svapnanidrajnyanalambanam va",
+"meaning": "Or else (the mind can be made steady) by giving it the knowledge of dream and sleep for support",
+"words" : "Svapna: dream; nidrā: sleep; jñāna: knowledge; ālambana: support; vā: or, also"
+},
+{
+"shloka": "yathabhimatadhyanadva",
+"meaning": "Or else by meditation as desired (mind can be steadied)",
+"words" : "Yathā: as; abhimata: desired; dhyanāt: by meditation; vā: or"
+},
+{
+"shloka": "paramanu paramamahattvantosya vashikarah",
+"meaning": "So the yogi is given mastery over all objects for meditation ranging from the smallest atom to the infinitely large",
+"words" : "Paramāṇu: ultimate atom; paramamahattva: ultimate largeness; antah: ending; asya: of his; vaśi kāraḥ: mastery"
+},
+{
+"shloka": "kshinavritterabhijatasyeva manergrahitrigrahanagrahyeshu tatsthatadanjanata samapattih",
+"meaning": "Samapatti is a state of complete absorption of the mind which is free from vrittis into (the three types of objects such as) cognizer, cognized and the senses, just as a polished crystal takes the colour of that on which it rests",
+"words" : "Kṣi ṇavṛtteh: whom the vrittis have weakened; abhijātasya: wellpolished, purified; iva: just like; maṇeḥ: of the crystal; grahitṛ: cognizer; grahaṇa: senses; grāhyeṣu: in the objects of cognition; tatstha: on which it stays or rests; tadañjanatā: taking the colour of that; samāpattiḥ: complete absorption"
+},
+{
+"shloka": "tatra shabdarthajnyanavikalpaih sankirna savitarka samapattih",
+"meaning": "In that state (of samadhi) on account of alternating consciousness between word, true knowledge and sense perception, the mixed state of mind is known as savitarka samapatti",
+"words" : "Tatra: there, in that state; śabda: word, sound: artha: true knowledge; jñana: reasoning; vikalpaiḥ: by alternation; saṇki rṇa: mixed up, confused; savitarkā: with worded thinking; samāpattiḥ: complete absorption"
+},
+{
+"shloka": "smritiparishuddhau svarupashunyevarthamatranirbhasa nirvitarka",
+"meaning": "After the clarification of memory, when the mind is as if devoid of selfawareness and the true knowledge of the object is alone shining within, that is nirvitarka",
+"words" : "Smṛti: memory; pari: complete; śuddhau: purification; svarūpa: one’s own form; śūnya: devoid of; I: as if; artha: object, purpose; mātra: only; nirbhāsā: shining; nirvitarkā: without vitarka"
+},
+{
+"shloka": "etayaiva savichara nirvichara cha sukshmavishaya vyakhyata",
+"meaning": "By this explanation alone savichara samadhi, nirvichara samadhi and subtler stages of samadhi have been explained",
+"words" : "Etaya: by this; eva: itself, alone; savichāra: samadhi with reflection; nirvichāra: samadhi without reflection; cha: and; sūkṣmaviṣayā: subtle objects; vyākhyātā: explained"
+},
+{
+"shloka": "sukshmavishayatvam chalingaparyavasanam",
+"meaning": "The stages of samadhi in respect to subtle objects extend up to prakriti",
+"words" : "Sūkṣmaviṣayatvaṃ: the subtle stages of samadhi; cha: and; aliṅga: prakriti; paryavasānam: extension"
+},
+{
+"shloka": "ta eva sabijah samadhih",
+"meaning": "Those (stages which have been explained before) are only samadhi with seed",
+"words" : "Tāh: those; eva: only; sabi jaḥ: with seed; samādhiḥ: samadhi"
+},
+{
+"shloka": "nirvicharavaisharadyedhyatmaprasadah",
+"meaning": "After becoming absolutely perfect in nirvichara samadhi the spiritual light dawns",
+"words" : "Nirvichāra: nirvichara samadhi; vaiśāradye: after becoming absolutely expert; adhyātma: spiritual; prasādaḥ: illumination, or purity"
+},
+{
+"shloka": "ritambhara tatra prajnya",
+"meaning": "There (at the borderline of nirvichara samadhi) the superconsciousness becomes full with cosmic experience",
+"words" : "Ṛtambharā: full of experience; tatra: there; prajñā: superconsciousness"
+},
+{
+"shloka": "shrutanumanaprajnyabhyamanyavishaya vishesharthatvat",
+"meaning": "This knowledge is different from the knowledge acquired through testimony and inference because it has a special object",
+"words" : "Śruta: heard; anumāna: inference; prajñābhyām: from the two types of consciousness; anyaviṣaya: another object; viśeṣārthatvāt: because of having a particular object"
+},
+{
+"shloka": "tajjah samskaronyasamskarapratibandhi",
+"meaning": "Dynamic consciousness born of that (sabeeja samadhi) prevents other states of consciousness",
+"words" : "Tajjaḥ: born of that; saṃskārah: dynamic consciousness; anya: of other; saṃskāra: dynamic consciousness; pratibandhi : that which prevents"
+},
+{
+"shloka": "tasyapi nirodhe sarvanirodhannirbijah samadhih",
+"meaning": "After blocking of even that due to blocking of all chitta vrittis, seedless samadhi is attained",
+"words" : "Tasya: of that; api: also; nirodha: by blocking; sarva: all; nirodhān: by blocking; nirbi jaḥ: seedless; samādhiḥ: samadhi"
+}
+],
+[
+{
+"shloka": "tapahsvadhyayeshvarapranidhanani kriyayogah",
+"meaning": "Tapas, swadhyaya and Ishwara pranidhana constitute kriya yoga",
+"words" : "Tapaḥ: austerity; svādhyāya: self-study of scriptures; i shvara praṇidhāna: surrender to God; kriyā yoga: practical yoga"
+},
+{
+"shloka": "samadhibhavanarthah kleshatanukaranarthashcha",
+"meaning": "For developing the consciousness of samadhi and for the purpose of thinning out the cause of afflictions (kriya yoga is practised)",
+"words" : "Samādhi: samadhi; bhāvanārthaḥ: for developing the state of; kleśa: cause of afflictions; tanu: thin; karaṇārtha: for making; cha: and"
+},
+{
+"shloka": "avidyasmitaragadveshabhiniveshah kleshah",
+"meaning": "Ignorance, I-feeling, liking, disliking and fear of death are the pains",
+"words" : "Avidyā: ignorance; asmitā: I-feeling; rāga: liking; dveṣa: repulsion, dislike; abhiniveśāḥ: fear of death; kleśāḥ: afflictions"
+},
+{
+"shloka": "avidya kshetramuttaresham prasuptatanuvichchhinnodaranam",
+"meaning": "Avidya is the field of the following ones (kleshas) in the states of dormant, thin, scattered or expanded",
+"words" : "Avidyā: avidya; kṣetram: field; uttareṣāṃ: of the following; prasupta: dormant; tanu: thin; vichchhinna: scattered; udārāṇām: fully operated, expanded"
+},
+{
+"shloka": "anityashuchiduhkhanatmasu nityashuchisukhatmakhyatiravidya",
+"meaning": "Avidya is to mistake the non-eternal, impure, evil and noumenon for the eternal, pure, good and atman (respectively)",
+"words" : "Anitya: not eternal; aśuchi: impure; duḥkha: pain; anātmasu: nonatman; nitya: eternal; śuchi: pure; sukha: happiness; ātma: self; khyāti: knowledge; avidyā: avidya"
+},
+{
+"shloka": "drigdarshanashaktyorekatmatevasmita",
+"meaning": "Asmita is the identity as it were of the purusha with the buddhi",
+"words" : "Dṛg: purusha, power of consciousness, power to see; darśana: that which is seen, cognition; śaktyoh: of the two powers; ekātmatā: identity; iva: as if; asmitā: I-feeling"
+},
+{
+"shloka": "sukhanushayi ragah",
+"meaning": "Raga is the liking accompanying pleasure",
+"words" : "Sukha: pleasure; anuśayi : accompanying; rāgaḥ: liking"
+},
+{
+"shloka": "duhkhanushayi dveshah",
+"meaning": "Dwesha is the repulsion accompanying pain",
+"words" : "Duḥkha: pain; anuśayi : accompanying; dveṣaḥ: repulsion"
+},
+{
+"shloka": "svarasavahi vidushopi tatharudhobhiniveshah",
+"meaning": "Abhinivesha is the desire for life sustained by its own force which dominates even the learned",
+"words" : "Svarasavāhi : substained by its own force; viduṣah: of the learned; api: even; thatā: like that; rūḍhah: dominating; abhiniveśaḥ: fear of death, clinging to life"
+},
+{
+"shloka": "te pratiprasavaheyah sukshmah",
+"meaning": "Those kleshas are reducible by involution when they are subtle",
+"words" : "Te: they (kleshas); pratiprasavaḥ: involution; heyāḥ: reducible; sūkṣmāḥ: subtle"
+},
+{
+"shloka": "dhyanaheyastadvrittayah",
+"meaning": "The modifications of the kleshas are reducible through meditation",
+"words" : "Dhyāna: meditation; heyāh: reducible; tadvṛttayaḥ: their modification"
+},
+{
+"shloka": "kleshamulah karmashayo drishtadrishtajanmavedaniyah",
+"meaning": "This storehouse of karmas which is the root cause of afflictions is to be experienced in the present and future births",
+"words" : "Kleśa: affliction; mūlaḥ: root; karma: action; āśayo: reservoir; dṛṣṭa: seen, present; adṛṣṭa: not seen, future; janma: birth; vedani yaḥ: to be experienced"
+},
+{
+"shloka": "sati mule tadvipako jatyayurbhogah",
+"meaning": "So long as the root of karmashaya is there, it ripens and gives birth and class, span of life and experience",
+"words" : "Sati mūle: so long as the root is there; tat: it; vipākah: ripening; jāti: birth, class; āyuh: span of life; bhogāḥ: experience"
+},
+{
+"shloka": "te hladaparitapaphalah punyapunyahetutvat",
+"meaning": "They (birth, etc.) have happiness or sorrow as their fruits depending upon merit or demerit",
+"words" : "Te: they; hlāda: joy; paritāpa: sorrow; phalāḥ: fruits; puṇya: merit; apuṇya: demerit; hetutvāt: on account of"
+},
+{
+"shloka": "parinamatapasamskaraduhkhairgunavrittivirodhachchaduhkhameva sarvam vivekinah",
+"meaning": "In the case of one who has discrimination (viveka), all is painful because of pains due to change, acute suffering, samskaras, and also due to gunas and vrittis in opposition",
+"words" : "Pariṇāma: result, consequence; tāpa: acute suffering; saṃskāra: impression; duḥkhaih: by these three pains; guṇa: (three) gunas; vṛtti: modification of mind; virodhāt: on account of, opposing; cha: and; duḥkham: pain; eva: only; sarvaṃ: all; vivekinaḥ: those who have discrimination"
+},
+{
+"shloka": "heyam duhkhamanagatam",
+"meaning": "Suffering which has not yet come should be avoided",
+"words" : "Heyaṃ: to be avoided; duḥkham: misery; anāgatam: future"
+},
+{
+"shloka": "drashtridrishyayoh samyogo heyahetuh",
+"meaning": "The union between seer and seen is the cause of heya (which is to be avoided)",
+"words" : "Draṣṭṛ: seer; dṛśyayoḥ: seen; saṃyogo: union; heyahetuḥ: cause of heya, cause of what is to be avoided"
+},
+{
+"shloka": "prakashakriyasthitishilam bhutendriyatmakam bhogapavargartham drishyam",
+"meaning": "The seen (drishya) has the properties of light, activity and stability; it is of the nature of the elements and sense organs and has experience and liberation as its objectives",
+"words" : "Prakāśa: light, illumination; kriyā: activity; sthiti: steadiness; śi laṃ: qualities; bhūta: elements; indriya: sense organs; ātmakaṃ: being of the nature; bhoga: experience; apavarga: liberation; arthaṃ: for the sake of; dṛśyam: seen"
+},
+{
+"shloka": "visheshavisheshalingamatralingani gunaparvani",
+"meaning": "Vishesha, avishesha, lingamatra and alinga are the stages of the gunas",
+"words" : "Viśeṣa: with difference; aviśeṣa: no difference; liṅgamātra: with a mere mark; aliṅgāni: without any mark; guṇaparvāṇi: state of the gunas"
+},
+{
+"shloka": "drashta drishimatrah shuddhopi pratyayanupashyah",
+"meaning": "The seer is pure consciousness only, but in spite of its purity it appears to see through the mental concept",
+"words" : "Draṣṭā: seer, purusha; dṛśimātraḥ: only pure consciousness; śuddho: pure; api: also, though; pratyaya: concept; anupaśyaḥ: appears to see"
+},
+{
+"shloka": "tadartha eva drishyasyatma",
+"meaning": "For the sake of that (purusha) alone does prakriti exist",
+"words" : "Tadartha: for the sake of that (purusha); eva: alone; dṛśyasya: of the seen; ātmā: nature"
+},
+{
+"shloka": "kritartham prati nashtamapyanashtam tadanyasadharanatvat",
+"meaning": "To one whose purpose is fulfilled the seen becomes non-existent but for others it is not destroyed because cognition is common to all",
+"words" : "Kṛtārthaṃ: a person whose purpose is fulfilled; prati: towards; naṣṭam: destroyed; api: although; anaṣṭaṃ: not destroyed; tat: that; anya: other; sādhāraṇatvāt: on account of being common"
+},
+{
+"shloka": "svasvamishaktyoh svarupopalabdhihetuh samyogah",
+"meaning": "The purpose of union of purusha and prakriti is to experience the essential nature and to achieve, in themselves, the powers of purusha and prakriti",
+"words" : "Sva: of one’s own; svāmi: master; śaktayoḥ: of the two powers; svarūpa: one’s essential nature; upalabdhi: acquirement; hetuḥ: purpose; saṃyogaḥ: coming together"
+},
+{
+"shloka": "tasya heturavidya",
+"meaning": "The cause of union is avidya",
+"words" : "Tasya: of it (union); hetuh: cause; avidyā: lack of inner awareness"
+},
+{
+"shloka": "tadabhavat samyogabhavo hanam taddrisheh kaivalyam",
+"meaning": "By the absence of avidya the union (between the purusha and prakriti) disappears. This is hana (avoidance), called liberation of the purusha",
+"words" : "Tat: that (avidya); abhāvāt: by absence; saṃyoga: union; abhāvaḥ: absence; hānaṃ: avoidance; tat: that(state); dṛśeḥ: of the seer; kaivalyam: liberation"
+},
+{
+"shloka": "vivekakhyatiraviplava hanopayah",
+"meaning": "The unfluctuating awareness of the real (vivekakhyati) is the means for avoidance of avidya",
+"words" : "Viveka: discrimination; khyātih: awareness; aviplavā: without fluctuation; hānopāyaḥ: the means of avoidance (hana)"
+},
+{
+"shloka": "tasya saptadha prantabhumih prajnya",
+"meaning": "There are seven stages of enlightenment of that purusha",
+"words" : "Tasya: of it, the purusha; saptadhā: sevenfold; prāntabhūmiḥ: bordering province; prajñā: the cognizing consciousness"
+},
+{
+"shloka": "yoganganushthanadashuddhikshaye jnyanadiptira vivekakhyateh",
+"meaning": "By the practice of the parts of yoga impurity diminishes until the rise of spiritual knowledge culminates in awareness of reality",
+"words" : "Yogāṅga: a part of yoga; anuṣṭhānāt: by practice; aśuddhi: impurity; kṣaye; destruction; jñāna: spiritual knowledge; di ptih: radiance; āvivekakhyāteḥ: till the awareness of reality"
+},
+{
+"shloka": "yamaniyamasanapranayamapratyaharadharanadhyanasamadhayoshtavangani",
+"meaning": "Self restraints, fixed rules, postures, breath control, sense withdrawal, concentration, meditation and samadhi constitute the eight parts of yoga discipline",
+"words" : "Yama: self-restraints; niyama: fixed rules; āsana: postures; prāṇāyāma: breath control; pratyāhāra: sense withdrawal; dhāraṇā: concentration; dhyāna: meditation; samādhi: samadhi; aṣṭa: eight; aṅgāni: parts"
+},
+{
+"shloka": "ahimsasatyasteyabrahmacharyaparigraha yamah",
+"meaning": "Non-violence, truth, honesty, sensual abstinence and non-possessiveness are the five self-restraints",
+"words" : "Ahiṃsā: non-violence; satya: truthfulness; asteya: honesty; brahmacharya: sensual abstinence; aparigrahā: non-acquisitiveness; yamāḥ: self-restraints"
+},
+{
+"shloka": "jatideshakalasamayanavachchhinnah sarvabhauma mahavratam",
+"meaning": "When practised universally without exception due to birth, place, time and circumstances they (yamas) become great disciplines",
+"words" : "Jāti: class of birth; deśa: country, or place; kāla: time; samaya: circumstances; anavachchhinnāḥ: unconditioned, unlimited; sārvabhaumā: universal; mahāvratam: the great discipline"
+},
+{
+"shloka": "shauchasantoshatapahsvadhyayeshvarapranidhanani niyamah",
+"meaning": "Cleanliness, contentment, austerity, self-study and surrender to God constitute fixed observances",
+"words" : "Śaucha: cleanliness; santoṣa: contentment; tapaḥ: tapas, austerity; svādhyāya: self-study; i śvara praṇidhānāni: surrender to God; niyamāḥ: fixed rules"
+},
+{
+"shloka": "vitarkabadhane pratipakshabhavanam",
+"meaning": "When the mind is disturbed by passions one should practise pondering over their opposites",
+"words" : "Vitarka: passions; bādhane: on disturbance; pratipakṣa: the opposite; bhāvanam: pondering over"
+},
+{
+"shloka": "vitarka himsadayah kritakaritanumodita lobhakrodhamohapurvaka mridumadhyadhimatra duhkhajnyananantaphala iti pratipakshabhavanam",
+"meaning": "Thinking of evil thoughts such as violence, whether done through oneself, through others, or approved, is caused by greed, anger and confusion. They can be either mild, medium or intense. Pratipaksha bhavana is thinking that these evil thoughts cause infinite pain and ignorance",
+"words" : "Vitarkā: evil passions; hiṃsādayaḥ: violence and others; kṛta: done by one’s self; kārita: done through others; anumoditā; approved; lobha: greed; krodha: anger; moha: confusion; pūrvaka: preceded by; mṛdu: mild; madhya: medium; adhimātrā: intense; duḥkha: pain; ajñāna: ignorance; ananta: infinite; phalāḥ: results; iti: like that; pratipakṣa: opposite; bhāvanam: thinking"
+},
+{
+"shloka": "ahimsapratishthayam tatsannidhau vairatyagah",
+"meaning": "On being firmly established in ahimsa, there is abandonment of hostility in his vicinity",
+"words" : "Ahiṃsā: non-violence; pratiṣṭhāyāṃ: on being firmly established; tatsaṃnidhau: in its vicinity; vaira: hostility; tyāgaḥ: abandonment"
+},
+{
+"shloka": "satyapratishthayam kriyaphalashrayatvam",
+"meaning": "On being firmly established in truthfulness, the actions result in fruits, entirely depending on it",
+"words" : "Satya: truthfulness; pratiṣṭhāyāṃ: on being firmly established; kriyā: action; phala: result or fruit; āśrayatvam: basis"
+},
+{
+"shloka": "asteyapratishthayam sarvaratnopasthanam",
+"meaning": "On being firmly established in honesty, all gems present themselves",
+"words" : "Asteya: honesty; pratiṣṭhāyāṃ: on being firmly established; sarva: all; ratna: gems; upasthānam: self-presentation"
+},
+{
+"shloka": "brahmacharyapratishthayam viryalabhah",
+"meaning": "On being firmly established in brahmacharya, veerya is gained",
+"words" : "Brahmacharya: sexual abstinence; pratiṣṭhāyāṃ: on being firmly established; vi rya: indomitable courage; lābhaḥ: gain"
+},
+{
+"shloka": "aparigrahasthairye janmakathantasambodhah",
+"meaning": "On becoming steady in non-possessiveness, there arises the knowledge of how and from where birth (comes)",
+"words" : "Aparigraha: non-possessiveness; sthairye: on becoming steady; janma: birth; kathantā: how and from where; sambodhaḥ: knowledge"
+},
+{
+"shloka": "shauchat svangajugupsa parairasamsargah",
+"meaning": "From cleanliness there comes indifference towards body and nonattachment to others",
+"words" : "Śauchāt: from cleanliness; svāṅga: one’s own body; jugupsā: indifference; paraih: with others; asaṃsargaḥ: non-attachment"
+},
+{
+"shloka": "sattvashuddhisaumanasyaikagryendriyajayatmadarshanayogyatvani cha",
+"meaning": "By the practice of mental purity one acquires fitness for cheerfulness, one-pointedness, sense control and vision of the self",
+"words" : "Sattvaśuddhi: purity of internal being; saumanasya: cheerfulness; ekāgrya: one-pointedness; indriyajaya: control of senses; ātmadarśana: vision of the self; yogyatvāni: fitness; cha: and"
+},
+{
+"shloka": "santoshadanuttamasukhalabhah",
+"meaning": "Unexcelled happiness comes from the practice of contentment",
+"words" : "Santoṣāt: from contentment; anuttamah: unexcelled; sukha: pleasure, happiness; lābhaḥ: gain"
+},
+{
+"shloka": "kayendriyasiddhirashuddhikshayat tapasah",
+"meaning": "By practising austerities, impurities are destroyed and there comes perfection in the body and sense organs",
+"words" : "Kāya: the body; indriya: sense organ; siddhi: perfection; aśuddhi: impurity; kṣayāt: destruction; tapasaḥ: by austerities"
+},
+{
+"shloka": "svadhyayad ishtadevatasamprayogah",
+"meaning": "By self-observation, union with the desired deity is brought about",
+"words" : "Svādhyāyāt: by self-awareness, self-observation; iṣṭadevatā: the deity of choice; samprayogaḥ: communion"
+},
+{
+"shloka": "samadhisiddhirishvarapranidhanat",
+"meaning": "Success in trance comes by complete surrender to God",
+"words" : "Samādhi: trance; siddhi: perfection, i śvara: God; praṇidhānāt: selfsurrender"
+},
+{
+"shloka": "sthirasukham asanam",
+"meaning": "Steady and comfortable should be the posture",
+"words" : "Sthira: steady; sukham: comfortable; āsanam: posture"
+},
+{
+"shloka": "prayatnashaithilyanantasamapattibhyam",
+"meaning": "By loosening of effort and by meditation on the serpent ananta, asana is mastered",
+"words" : "Prayatna: effort; śaithilya: looseness; ananta: the serpent called ananta; samāpattibhyām: by meditation"
+},
+{
+"shloka": "tato dvandvanabhighatah",
+"meaning": "Thereby the pairs of opposites cease to have any impact",
+"words" : "Tatah: from that; dvandva: pairs of opposites; anabhighātaḥ: no impact"
+},
+{
+"shloka": "tasminsati shvasaprashvasayorgativichchhedah pranayamah",
+"meaning": "The asana having been done, pranayama is the cessation of the movement of inhalation and exhalation",
+"words" : "Tasmin: on that; sati: having been; śvasapraśvāsayah: inhalation, exhalation; gati: movement; vichchhedaḥ: break, cessation; prāṇāyāmaḥ: pranayama"
+},
+{
+"shloka": "bahyabhyantarastambhavrittirdeshakalasankhyabhih  paridrishto dirghasukshmah",
+"meaning": "Pranayama is external, internal or suppressed, regulated by place, time and number and becomes prolonged and subtle",
+"words" : "Bāhyah: outer; abhyantara: internal; stambhavṛttih: suppressed stage; deśa: place; kāla: time; saṅkhyābhiḥ: number; paridriṣṭah: measured; di rgha: prolonged; sūkṣmaḥ: subtle"
+},
+{
+"shloka": "bahyabhyantaravishayakshepi chaturthah",
+"meaning": "The fourth pranayama is that which transcends the internal and external object",
+"words" : "Bāhya: external; abhyantara: internal; viṣaya: object; ākṣepi: transcending; chaturtha: fourth"
+},
+{
+"shloka": "tatah kshiyate prakashavaranam",
+"meaning": "Thereby the covering of light disappears",
+"words" : "Tataḥ: thereby; kṣi yate: disappears; prakāśa: light; āvaraṇam: covering"
+},
+{
+"shloka": "dharanasu cha yogyata manasah",
+"meaning": "And fitness of the mind for concentration (develops through pranayama)",
+"words" : "Dhāraṇāsu: in dharana; cha: and; yogyatā: fitness; manasaḥ: of the mind"
+},
+{
+"shloka": "svavishayasamprayoge chittasyasvarupanukara ivendriyanam pratyaharah",
+"meaning": "Pratyahara is, as it were, the imitation by the senses of the mind by withdrawing them from their respective objects",
+"words" : "Sva: one’s own; viṣaya: object; asamprayoge: not coming into contact; chitta: mind; svarūpa: own form; anukārah: imitating; iva: as if; indriyāṇāṃ: of the senses; pratyāhāraḥ: withdrawal"
+},
+{
+"shloka": "tatah parama vashyatendriyanam",
+"meaning": "There is highest mastery over the sense organs (by pratyahara)",
+"words" : "Tatah: thereby; paramā: highest; vaśyate: mastery; indriyāṇām: of the senses"
+}
+],
+[
+{
+"shloka": "deshabandhashchittasya dharana",
+"meaning": "Concentration (dharana) is binding the mind to one place",
+"words" : "Deśa: place; bandha: binding; chittasya: of the mind; dhāraṇā: concentration"
+},
+{
+"shloka": "tatra pratyayaikatanata dhyanam",
+"meaning": "Uninterrupted stream of the content of consciousness is dhyana",
+"words" : "Tatra: there (in the desha); pratyaya: basis or content of consciousness; ekatānatā: continuity; dhyānam: meditation"
+},
+{
+"shloka": "tadevarthamatranirbhasam svarupashunyamiva samadhih",
+"meaning": "That state becomes samadhi when there is only the object appearing without the consciousness of one’s own self",
+"words" : "Tadeva: the same; artha: the object of dhyana; mātra: only; nirbhāsaṃ: appearing; svarūpa: one’s own form; śūnyam: empty; iva: as if; samādhiḥ: samadhi"
+},
+{
+"shloka": "trayamekatra samyamah",
+"meaning": "The three (dharana, dhyana and samadhi) together constitute samyama",
+"words" : "Trayam: the three; ekatra: together; saṃyamaḥ: samyama"
+},
+{
+"shloka": "tajjayatprajnyalokah",
+"meaning": "By mastering it (samyama) the higher consciousness dawns",
+"words" : "Tat: that; jayāt: by mastering: prajñā: higher consciousness; ālokaḥ: illumination"
+},
+{
+"shloka": "tasya bhumishu viniyogah",
+"meaning": "That (light of higher consciousness) should be applied to different, finer states of consciousness",
+"words" : "Tasya: of that; bhūmiṣu: in the subtle states; viniyogaḥ: application"
+},
+{
+"shloka": "trayamantarangam purvebhyah",
+"meaning": "The three together are internal in relation to the previous ones",
+"words" : "Trayam: the three together; antaraṅgaṃ: internal; pūrvebhyaḥ: in relation to the earlier ones"
+},
+{
+"shloka": "tadapi bahirangam nirbijasya",
+"meaning": "That (three stages or trinity) also is external to nirbeeja samadhi",
+"words" : "Tadapi: that also; bahiraṅga: external; nirbi jasya: of nirbeeja samadhi"
+},
+{
+"shloka": "vyutthananirodhasamskarayorabhibhavapradurbhavau nirodhakshanachittanvayo nirodhaparinamah",
+"meaning": "Nirodha parinama is that state of transformation of mind where it is permeated by the moment of suppression which appears and disappears between incoming and outgoing samskaras",
+"words" : "Vyutthana: coming out; nirodha: stopping; saṃskārayoh: of the two impressions; abhibhava: suppression; prādurbhāvau: emergence; nirodhakṣaṇa: moment of suppression; chitta: the mind; anvayah: permeation; nirodha: suppression; pariṇāmaḥ: transformation"
+},
+{
+"shloka": "tasya prashantavahita samskarat",
+"meaning": "The flow of nirodha parinama becomes tranquil by repeated impression",
+"words" : "Tasya: of it; praśānta: peaceful; vāhitā: flow; saṃskārāt: by repeated impression"
+},
+{
+"shloka": "sarvarthataikagratayoh kshayodayau chittasya samadhiparinamah",
+"meaning": "Samadhi parinama is the disappearance and appearance of distraction and one-pointedness of mind",
+"words" : "Sarvārthatā: a diverse state; ekāgratayoḥ: one-pointedness; kṣayodayau: disappearance and appearance; chittasya: of the mind; samādhi: tranquillity; pariṇāmaḥ: transformation"
+},
+{
+"shloka": "tatah punah shantoditau tulyapratyayau chittasyaikagrataparinamah",
+"meaning": "Then again when the objects which subside and appear are similar, it is called one-pointed transformation of mind",
+"words" : "Tataḥ: then; punaḥ: again; śanta: subsided; uditau: manifest; tulya: equal; pratyayau: content of the mind; chittasya: of the mind; ekāgratā: one-pointedness; pariṇāmaḥ: transformation"
+},
+{
+"shloka": "etena bhutendriyeshu dharmalakshanavasthaparinama vyakhyatah",
+"meaning": "By this the three parinamas, namely, nature, character and condition in the elements and sense organs are explained",
+"words" : "Etena: by this; bhūta: elements; indriyeṣu: in the sense organs; dharma: quality, property; lakṣaṇa: characteristic; avasthā: condition; pariṇāmaḥ: transformations; vyākhyātāḥ: are explained"
+},
+{
+"shloka": "shantoditavyapadeshyadharmanupati dharmi",
+"meaning": "The dharmi (substratum) is common in all latent, active or unmanifestable properties",
+"words" : "Śanta: peaceful, latent; udita: manifest; avyapadeśya: unmanifestable; dharma: the properties; anupāti : common; dharmi : substratum of properties"
+},
+{
+"shloka": "kramanyatvam parinamanyatve hetuh",
+"meaning": "The difference in the process of succession is the cause in transformation",
+"words" : "Krama: order; anyatvaṃ: difference; pariṇāmāh: transformation; anyatve: for difference; hetuḥ: cause"
+},
+{
+"shloka": "parinamatrayasamyamad atitanagatajnyanam",
+"meaning": "By performing samyama on the three transformations, knowledge of past and future (arises)",
+"words" : "Pariṇāma: transformation; traya: three; saṃyamāt: by samyama; ati ta: past; anāgatah: future; jñānam: knowledge"
+},
+{
+"shloka": "shabdarthapratyayanamitaretaradhyasat sankarastatpravibhagasamyamatsarvabhutarutajnyanam",
+"meaning": "The word, object and mental content are in a confused state because of mutual superimposition. By performing samyama on them separately, knowledge of the speech of all beings (arises)",
+"words" : "Śabda: word; artha: object; pratyayānām: mental content; itaretarādhyāsāt: because of mental superimposition; saṅkara: confusion; tat: that; pravibhāga: separate; saṃyamāt: by samyama; sarvabhūta: all living beings; ruta: speech; jñānam: knowledge"
+},
+{
+"shloka": "samskarasakshatkaranatpurvajatijnyanam",
+"meaning": "By direct perception of the impressions, knowledge of previous births (arises)",
+"words" : "Saṃskāra: impression; sākṣātkaraṇāt: by direct perception; pūrva: previous; jāti: birth; jñānam: knowledge"
+},
+{
+"shloka": "pratyayasya parachittajnyanam",
+"meaning": "By performing samyama on the pratyayas, knowledge of another’s mind (arises)",
+"words" : "Pratyayasya: of the content of the mind; para: another; chitta: mind; jñānam: knowledge"
+},
+{
+"shloka": "na cha tatsalambanam tasyavishayibhutatvat",
+"meaning": "But the knowledge of that (other mental factors) is not gained with support of the mental image because that is not the object of samyama",
+"words" : "Na: not; cha: and; tat: that; sālambanaṃ: with support; tasya: its; aviṣayi bhūtatvāt: because of not being the subject of samyama"
+},
+{
+"shloka": "kayarupasamyamattadgrahyashaktistambhe chakshuhprakashasamprayogentardhanam",
+"meaning": "By performing samyama on the form of the body and suspending receptivity of the form, there being no contact between the eye and the light (the yogi can become) invisible",
+"words" : "Kāya: body; rūpa: form; saṃyamāt: by doing samyama; tat: that; grāhya: receptive; śakti: power; stambhe: on suspension; chakṣuh: the eye; prakāśa: light; samprayoga: absence of contact; antardhānam: being invisible"
+},
+{
+"shloka": "etena shabdaadyantardhaanam uktam",
+"meaning": "By what has been said the disappearance of sound and other tanmatras can be understood",
+"words" : "Etena: by this; śabdādi: sound and others; antardhānaṃ: disappearance; uktam: said"
+},
+{
+"shloka": "sopakramam nirupakramam cha karma tatsamyamadaparantajnyanamarishtebhyo va",
+"meaning": "Karma is of two kinds, active and dormant. By performing samyama on them knowledge of death is gained, also by omens",
+"words" : "Sopakramaṃ: the karma with activity; nirūpakramaṃ: the karma that is dormant; cha: and; karma: action; tat: that; saṃyamāt: by performing samyama; aparānta: death; jñānam: knowledge; ariṣṭebhyah: by omens; vā: or"
+},
+{
+"shloka": "maitryadishu balani",
+"meaning": "By performing samyama on friendliness, etc., there come those particular powers",
+"words" : "Maitri: friendliness; ādiṣu: etc.; balāni: powers"
+},
+{
+"shloka": "baleshu hastibaladini",
+"meaning": "By samyama on the strength of an elephant, etc., the corresponding strength (is developed)",
+"words" : "Baleṣu: by samyama on the powers; hasti: elephant; bala: strength; ādi ni: etc."
+},
+{
+"shloka": "pravrittyalokanyasatsukshmavyavahitaviprakrishtajnyanam",
+"meaning": "The knowledge of subtle, obscure or distant (objects) is gained by dilating the light of the superphysical faculty",
+"words" : "Pravṛtti: superphysical faculty; āloka: light; nyāsāt: by projecting; sūkṣma: fine; vyavahita: hidden; viprakṛṣṭa: distant; jñānam: knowledge"
+},
+{
+"shloka": "bhuvanajnyanam surye samyamat",
+"meaning": "Knowledge of the solar system is gained by performing samyama on the sun",
+"words" : "Bhuvana: solar system; jñānaṃ: knowledge; sūrye: on the sun; saṃyamāt: by performing samyama"
+},
+{
+"shloka": "chandre taravyuhajnyanam",
+"meaning": "By performing samyama on the moon, knowledge about the position of the stars is gained",
+"words" : "Chandre: moon; tārā: stars; vyūha: arrangements; jñānam: knowledge"
+},
+{
+"shloka": "dhruve tadgatijnyanam",
+"meaning": "By performing samyama on the pole star, knowledge of the movement of the stars can be obtained",
+"words" : "Dhruve: by performing samyama on the pole star; tat: that; gati: movement; jñānam: knowledge"
+},
+{
+"shloka": "nabhichakre kayavyuhajnyanam",
+"meaning": "By performing samyama on the navel centre, knowledge of the arrangement in the body is gained",
+"words" : "Nābhi: navel; chakre: centre; kāya: body; vyūha: arrangement; jñānam: knowledge"
+},
+{
+"shloka": "kanthakupe kshutpipasanivrittih",
+"meaning": "By performing samyama on the throat pit, hunger and thirst retire",
+"words" : "Kaṇṭhakūpe: by performing samyama on the throat pit; kṣut: hunger; pipāsā: thirst; nivṛttiḥ: retirement"
+},
+{
+"shloka": "kurmanadyam sthairyam",
+"meaning": "Steadiness is achieved by samyama on the kurma nadi",
+"words" : "Kūrmanāḍyāṃ: by performing samyama on the kurma nadi; sthairyam: steadiness"
+},
+{
+"shloka": "murdhajyotishi siddhadarshanam",
+"meaning": "By performing samyama on the light of the crown of the head (sahasrara), a spiritual vision of the masters of yoga is gained",
+"words" : "Mūrdha: crown of the head; jyotiṣi: on the light; siddha: adept; darśanam: spiritual vision"
+},
+{
+"shloka": "pratibhadva sarvam",
+"meaning": "Or everything by virtue of pratibha (intuition)",
+"words" : "Pratibhāt: from pratibha; vā: or; sarvam: everything"
+},
+{
+"shloka": "hridaye chittasamvit",
+"meaning": "By samyama on the heart, awareness of chitta dawns",
+"words" : "Hṛdaye: by performing samyama on the heart; chittasaṃvit: awareness of the consciousness"
+},
+{
+"shloka": "sattvapurushayoratyantasankirnayoh pratyayavishesho bhogah pararthatvatsvarthasamyamatpurushajnyanam",
+"meaning": "Chitta and purusha are extremely distinct. On account of non-difference of the awareness of both there is objective or subjective experience. By samyama on subjective awareness apart from objective awareness, the knowledge of purusha is obtained",
+"words" : "Sattva: chitta; puruṣayoh: of the purusha; atyanta: extremely; asaṅki rṇayoḥ: distinct; pratyaya: awareness; aviśeṣah: not distinct; bhogaḥ: experience; parārthatvāt: from objective consciousness; sva: one’s own; artha: subjective awareness; saṃyamāt: by samyama; puruṣajñānam: knowledge of purusha"
+},
+{
+"shloka": "tatah pratibhashravanavedanadarshasvadavarta jayante",
+"meaning": "Therefrom are produced transcendental audition, sensation, perception, taste and olfactory knowledge",
+"words" : "Tataḥ: therefrom; prātibha: the faculty of superior consciousness; śrāvana: the faculty of hearing; vedanā; touch consciousness; darśa: visualization; āsvāda: faculty of taste; vārtā: the olfactory faculty: jāyante: are produced"
+},
+{
+"shloka": "te samadhavupasarga vyutthane siddhayah",
+"meaning": "These psychic powers (mentioned in the previous sutra) are obstacles in samadhi, but in the state of consciousness of the world they are psychic powers",
+"words" : "Te: they; samādhau: in samadhi; upasargā: obstacles; vyutthāne: in the state of consciousness of the world; siddhayaḥ: psychic powers"
+},
+{
+"shloka": "bandhakaranashaithilyatpracharasamvedanachcha chittasya parashariraveshah",
+"meaning": "By loosening of the cause of bondage and by knowledge of the passage, the subtle body enters another person’s body",
+"words" : "Bandha: bondage; kāraṇa: cause; śaithilyāt: by loosening; prachāra: passage; saṃvedanāt: by knowledge; cha: and; chittasya: of the subtle body; para: of others; śari ra: body; āveśaḥ: entry"
+},
+{
+"shloka": "udanajayajjalapankakantakadishvasanga utkrantishcha",
+"meaning": "By mastery of udana there is non-contact with water, mud, thorns, etc., and the body levitates",
+"words" : "Udāna: one of the five pranas; jayāt: by mastery; jala: water; paṅka: mud; kaṇṭakādiṣu: with thorns, etc.; asaṅga: no contact; utkrāntih: levitation; cha: and"
+},
+{
+"shloka": "samanajayajjvalanam",
+"meaning": "By mastery of the samana vayu the body blazes",
+"words" : "Samāna: the samana vayu; jayāt: by mastery; jvalanam: blaze"
+},
+{
+"shloka": "shrotrakashayoh sambandhasamyamaddivyam shrotram",
+"meaning": "By samyama on the relation of the ear and space (there is) divine hearing",
+"words" : "Śrotra: ear; ākāśayoḥ: space; saṃbandha: relation; saṃyamāt: by samyama; divyaṃ: divine; śrotram: organ of hearing"
+},
+{
+"shloka": "kayakashayoh sambandhasamyamallaghutula- samapatteshchakashagamanam",
+"meaning": "By samyama on the relation of body and akasha and by fusing the mind with the lightness of cotton, there is going through space",
+"words" : "Kāyā: body; ākāśayoḥ: of space; saṃbandha: relation; saṃyamāt: by samyama; laghu: light; tūla: cotton, wool; samāpatteh: by fusion of mind; cha: and; ākāśa: space; gamanam: going through"
+},
+{
+"shloka": "bahirakalpita vrittirmahavideha tatah prakashavaranakshayah",
+"meaning": "In the state of mahavideha the vrittis are inconceivable and outside the scope of the body, whereby the covering of light is destroyed",
+"words" : "Bahih: external; akalpitā: unimaginable; vṛttih; state of mind; mahāvidehā: existence without body; tataḥ: therefrom; prakāśa: light; āvaraṇa: covering; kṣayaḥ: distraction"
+},
+{
+"shloka": "sthulasvarupasukshmanvayarthavattvasamyamadbhutajayah",
+"meaning": "By samyama on the gross, basic, subtle and interpenetrating states and the purpose of the bhutas, mastery over them is obtained",
+"words" : "Sthūla: gross; svarūpa: real form; sūkṣma: subtle; anvaya: interpenetrating; arthavattva: serving the purpose; saṃyamāt: by samyama; bhūtajayaḥ: mastery over elements"
+},
+{
+"shloka": "tatonimadipradurbhavah kayasampattaddharmanabhighatashcha",
+"meaning": "From that the appearance of anima (and other powers), perfection of the body and non-obstruction from the functions of the body (follows)",
+"words" : "Tatah: therefrom; aṇimādi: anima, etc.; prādurbhāvaḥ: appearance; kāyasaṃpat: bodily well; tat: that; dharma: function; anabhighātah: non-obstruction; cha: and"
+},
+{
+"shloka": "rupalavanyabalavajrasamhananatvani kayasampat",
+"meaning": "The perfection of the physical body includes beauty, grace, energy and hardness",
+"words" : "Rūpa: form, beauty; lāvaṇya: grace; bala: strength, energy; vajrasaṃhananatvāni: hardness; kāya: physical; saṃpat: wealth"
+},
+{
+"shloka": "grahanasvarupasmitanvayarthavattvasamyamadindriyajayah",
+"meaning": "Mastery over the sense organs is gained by samyama on the power of cognition, real nature, egoism, all-pervasiveness and purposefulness",
+"words" : "Grahaṇa: power of cognition; svarūpa: real nature; asmitā: egoism; anvayārthavatva saṃyamāt: by samyama; indriyajayaḥ: mastery over the sense organs"
+},
+{
+"shloka": "tato manojavitvam vikaranabhavah pradhanajayashcha",
+"meaning": "Therefrom follows speed like that of mind, freedom from any medium of instrumentality and conquest of the limitations of prakriti",
+"words" : "Tatah: therefrom; manojavitvaṃ: speed of mind; vikaraṇabhāvaḥ: freedom from sense organs; pradhānajayah: conquest of prakriti; cha: and"
+},
+{
+"shloka": "sattvapurushanyatakhyatimatrasya sarvabhavadhishthatritvam sarvajnyatritvam cha",
+"meaning": "Just by knowledge of the awareness of the difference between chitta and purusha comes supremacy over all states and forms of existence and omniscience",
+"words" : "Sattva: chitta; puruṣa: self; anyatā: difference; khyāti: awareness; mātrasya: only; sarva: all; bhāva: states of existence; adhiṣṭhātṛtvaṃ: supremacy; sarvajñātṛtvaṃ: omniscience; cha: and"
+},
+{
+"shloka": "tadvairagyadapi doshabijakshaye kaivalyam",
+"meaning": "By vairagya, even regarding that (the powers), the seed of defect is destroyed and kaivalya is attained",
+"words" : "Tat: that; vairāgyāt: by vairagya; api: even; doṣa: defect; bi ja: seed; kṣaye: due to destruction; kaivalyam: isolation"
+},
+{
+"shloka": "sthanyupanimantrane sangasmayakaranam punaranishtaprasangat",
+"meaning": "On being invited by the devatas there should be no attachment and pride, because of the possibility of revival of the undesirable",
+"words" : "Sthāni: gods (devata); upanimaṇtraṇe: on being respectfully invited; saṅga: attachment; smaya: pride; akaraṇaṃ: by not doing; punah: once again; aniṣṭa: undesirable; prasaṅgāt: by revival"
+},
+{
+"shloka": "kshanatatkramayoh samyamadvivekajam jnyanam",
+"meaning": "By samyama on moment and its order of succession is born the knowledge of realization of the ultimate reality",
+"words" : "Kṣaṇa: moment; tatkramayoḥ: its order of succession; saṃyamāt: by samyama; vivekajaṃ: born of realization; jñānam: knowledge"
+},
+{
+"shloka": "jatilakshanadeshairanyatanavachchhedat tulyayostatah pratipattih",
+"meaning": "Therefrom comes knowledge of two similar objects which are indistinguishable by class of birth, characteristic or position, because of no definition",
+"words" : "Jāti: birth; lakṣaṇa: characteristic; deśayoh: by place; anyatā: difference; anavachchhedāt: on account of no definition; tulyayoh: of the two similar objects; tataḥ: therefrom; pratipattiḥ: knowledge"
+},
+{
+"shloka": "tarakam sarvavishayam sarvathavishayamakramancheti vivekajam jnyanam",
+"meaning": "Transcendental knowledge includes the knowledge of all objects beyond all orders of succession and is born of viveka. That is all",
+"words" : "Tārakam: transcendental; sarvaviṣayam: all subjects; sarvathāviṣayam: object of every place; akramaṃ: beyond the order of succession; cha: and; iti: that is all; vivekajaṃ jñānam: knowledge born of viveka"
+},
+{
+"shloka": "sattvapurushayoh shuddhisamye kaivalyamiti",
+"meaning": "Kaivalya is achieved by equalizing and purifying the illumination of purusha and chitta",
+"words" : "Sattva: chitta; puruṣayoḥ: of the purusha; śuddhi: purification; sāmye: on becoming equal; kaivalyam: isolation; iti: end"
+}
+],
+[
+{
+"shloka": "janmaushadhimantratapahsamadhijah siddhayah",
+"meaning": "The siddhis are born of birth, herbs, mantras, austerities or samadhi",
+"words" : "Janma: birth; auṣadhi: herbs; mantra: mantra; tapaḥ: austerity; samādhi: samadhi; jāḥ: born of; siddhayaḥ: siddhis"
+},
+{
+"shloka": "jatyantaraparinamah prakrityapurat",
+"meaning": "By the overflow of natural potentiality occurs the transformation from one substance (or birth) into another",
+"words" : "Jātyantara: another birth; pariṇāmaḥ: transformation; prakṛti: nature; āpūrāt: by making up, overflowing"
+},
+{
+"shloka": "nimittamaprayojakam prakritinam varanabhedastu tatah kshetrikavat",
+"meaning": "The instrumental cause does not stir up the various natures but merely removes the obstacles like a farmer",
+"words" : "Nimittam: instrument; aprayojakaṃ: indirect; prakṛti nāṃ: of various natural tendencies; varaṇa: obstacles; bhedhah: removal; tu: but; tataḥ: therefore; kṣetrikavat: like the farmer"
+},
+{
+"shloka": "nirmanachittanyasmitamatrat",
+"meaning": "Created minds are free from egoism alone",
+"words" : "Nirmāṇa: creation; chittāni: minds; asmitā: egoism; mātrāt: alone"
+},
+{
+"shloka": "pravrittibhede prayojakam chittamekamanekesham",
+"meaning": "The one mind directs the many in connection with the difference of activities",
+"words" : "Pravṛtti: activity; bhede: in connection with the difference; prayojakaṃ: moving; chittam: mind; ekam: one; anekeṣām: of many"
+},
+{
+"shloka": "tatra dhyanajamanashayam",
+"meaning": "Of these, the one born of meditation is free of impressions",
+"words" : "Tatra: there, of them; dhyānajam: born of meditation; anāśayam: without the store of past impressions"
+},
+{
+"shloka": "karmashuklakrishnam yoginastrividhamitaresham",
+"meaning": "The actions of yogis are neither white nor black; of others they are threefold",
+"words" : "Karma: action; aśukla: not white; akṛṣṇaṃ: not black; yoginah: of the yogis; trividham: threefold; itareṣām: of others"
+},
+{
+"shloka": "tatastadvipakanugunanamevabhivyaktirvasananam",
+"meaning": "Therefrom the manifestation of potential desires according to their ripening only",
+"words" : "Tatah: therefrom; tadvipāka: the ripening of those; anuguṇānām: accordingly; eva: only; abhivyaktih: manifestation; vāsanānām: of potential desires"
+},
+{
+"shloka": "jatideshakalavyavahitanamapyanantaryam smritisamskarayorekarupatvat",
+"meaning": "Because memory and impression are the same in form there is a sequence although they may be divided by class of birth, place and time",
+"words" : "Jāti: class of birth; deśa: place; kāla: time; vyavahitānām: separated; api: even; anantaryaṃ: sequence; smṛtisaṃskārayoh: of memory and impressions; ekarūpatvāt: because of sameness in form"
+},
+{
+"shloka": "tasamanaditvam chashisho nityatvat",
+"meaning": "There is no beginning to them and the desire to live is eternal",
+"words" : "Tāsām: there is; anāditvaṃ: beginninglessness; cha: and; āśiṣah: of the will to live; nityatvāt: by permanence"
+},
+{
+"shloka": "hetuphalashrayalambanaih sangrihitatvadeshamabhave tadabhavah",
+"meaning": "Since cause and effect, support and object are bound together, by their disappearance that also disappears",
+"words" : "Hetu: cause; phala: effect; āśraya: support; ālambanaiḥ: object; saṅgṛhitatvāt: because of being bound together; eṣām: of these; abhāve: on the disappearance; tadabhāvaḥ: their disappearance"
+},
+{
+"shloka": "atitanagatam svarupatostyadhvabhedaddharmanam",
+"meaning": "Past and future exist in their own form by difference of paths",
+"words" : "Ati ta: past; anāgataṃ: future; svarūpatah: in its essential form; asti: exists; adhvabhedāt-dharmāṇām: of inherent properties"
+},
+{
+"shloka": "te vyaktasukshma gunatmanah",
+"meaning": "Whether manifest or unmanifest they are of the nature of gunas",
+"words" : "Te: they; vyakta: manifest; sūkṣmā: subtle; guṇātmānaḥ: of the nature of gunas"
+},
+{
+"shloka": "parinamaikatvadvastutattvam",
+"meaning": "The essence of the object is due to the uniqueness of transformation of the gunas",
+"words" : "Pariṇāma: transformation; ekatvāt: due to oneness; vastu: object; tattvam: the essence"
+},
+{
+"shloka": "vastusamye chittabhedattayorvibhaktah panthah",
+"meaning": "Because of the sameness of object and difference of mind their paths are separate",
+"words" : "Vastusāmye: by sameness of the object; chittabhedāt: by the difference of mind; tayoh: of these two; vibhaktaḥ: separate; panthāḥ: path of manifestation"
+},
+{
+"shloka": "na chaikachittatantram vastu tadapramanakam tada kim syat",
+"meaning": "The object of perception is not dependent on the chitta; what would happen to the object of perception when the medium of cognition is not there?",
+"words" : "Na: not; cha: and; eka: one; chitta: mind, tantraṃ: dependent; vastu: object; tat: that; apramāṇakaṃ: non-cognized; tadā: then; kiṃ: what; syāt: would happen "
+},
+{
+"shloka": "taduparagapekshitvachchittasya vastu jnyatajnyatam",
+"meaning": "The mind needs the reflection of the object for its cognition",
+"words" : "Taduparāga: the reflection of the object in chitta; apekṣitvāt: because of necessity; chittasya: of the mind; vastu: object; jñāta: known; ajñātam: unknown"
+},
+{
+"shloka": "sada jnyatashchittavrittayastatprabhoh purushasyaparinamitvat",
+"meaning": "Purusha, the master of chitta, is changeless, therefore, he always knows the modifications of the mind",
+"words" : "Sadā: always; jñātāh: are known; chittavṛttayah: modifications of mind; tatprabhoḥ: on its master; puruṣasya: of the purusha; apariṇāmitvāt: due to changelessness"
+},
+{
+"shloka": "na tatsvabhasam drishyatvat",
+"meaning": "That chitta is not self-illumined because it is the subject of knowledge and perception",
+"words" : "Na: not; tat: that; svābhāsaṃ: self-illumined; dṛśyatvāt: of perceptibility"
+},
+{
+"shloka": "ekasamaye chobhayanavadharanam",
+"meaning": "And there cannot be the comprehension of both simultaneously",
+"words" : "Ekasamaye: simultaneously; cha: and; ubhaya: both; anavadhāraṇam: non-comprehension"
+},
+{
+"shloka": "chittantaradrishye buddhibuddheratiprasangah smritisankarashcha",
+"meaning": "If cognition by one mind of the other be accepted, then there will be cognition of cognitions leading to absurdity and confusion of memory",
+"words" : "Chittāntaradṛśye: in one mind being cognized by the other; buddhibuddheh: cognition of cognitions; atiprasaṅgaḥ: absurd superfluity; smṛti: memory; saṅkarah: confusion; cha: and"
+},
+{
+"shloka": "chiterapratisankramayastadakarapattau svabuddhisamvedanam",
+"meaning": "Knowledge of its own nature through self-cognition is accomplished when consciousness assumes that form in which it does not pass from one stage to another",
+"words" : "Chitteh: of the consciousness; apratisaṅkramāyāh: not passing from one to another; tadākāra: own form; āpattau: have accomplished; svabuddhi: self-cognition; saṃvedanam: knowing of"
+},
+{
+"shloka": "drashtridrishyoparaktam chittam sarvartham",
+"meaning": "The mind which is coloured by the seer and the seen is all-apprehending",
+"words" : "Draṣṭṛ: the seer (of the seer); dṛśya: prakriti; uparaktaṃ: coloured; chittaṃ: mind; sarvārtham: all inclusive"
+},
+{
+"shloka": "tadasankhyeyavasanabhishchitramapi parartham samhatyakaritvat",
+"meaning": "Though variegated by innumerable vasanas it acts for the purusha because it works in association",
+"words" : "Tat: that; asaṅkhyeya: innumerable; vāsanābhih: by the vasanas; chitram: variegated; api: although; parārthaṃ: for the sake of purusha; saṃhatyakāritvāt: because of associated action"
+},
+{
+"shloka": "visheshadarshina atmabhavabhavanavinivrittih",
+"meaning": "The awareness of self-consciousness ceases completely for one who sees the distinction",
+"words" : "Viśeṣa: the distinction; darśina: of one who sees; ātmabhāva: selfconsciousness; bhāvanā: feeling; vinivṛttiḥ: complete cessation"
+},
+{
+"shloka": "tada vivekanimnam kaivalyapragbharam chittam",
+"meaning": "Then verily the mind is inclined towards discrimination and heading on towards kaivalya",
+"words" : "Tadā: then; vivekanimnaṃ: inclined towards discrimination; kaivalyaprāgbhāraṃ: inclined towards kaivalya; chittam: the mind"
+},
+{
+"shloka": "tachchhidreshu pratyayantarani samskarebhyah",
+"meaning": "In between the state of discrimination (viveka) other pratyayas arise due to past impressions",
+"words" : "Tachchhidreṣu: in the intervals of that; pratyayāntarāṇi: other pratyayas; saṃskārebhyaḥ: by samskaras"
+},
+{
+"shloka": "hanamesham kleshavaduktam",
+"meaning": "The removal of these (pratyayas) is prescribed like the destruction of the kleshas",
+"words" : "Hānam: destruction; eṣāṃ: of these; kleśavat: like the kleshas; uktam: is said"
+},
+{
+"shloka": "prasankhyanepyakusidasya sarvatha vivekakhyaterdharmameghah samadhih",
+"meaning": "When there is no interest even in the highest meditation, dharmamegha samadhi develops on account of complete discrimination",
+"words" : "Prasaṅkhyāne: in the highest meditation; api: even; akusi dasya: of one who has no interest left; sarvathā: in every way; vivekakhyāteh: by discrimination; dharmameghaḥ: the showering of dharma; samādhiḥ: samadhi"
+},
+{
+"shloka": "tatah kleshakarmanivrittih",
+"meaning": "Thereafter (arises) freedom from kleshas and karmas",
+"words" : "Tataḥ: thereafter; kleśa: affliction; karma: actions: nivṛttiḥ: cessation"
+},
+{
+"shloka": "tada sarvavaranamalapetasya jnyanasyanantyajjnyeyamalpam",
+"meaning": "Then by the removal of all veils and impurities little remains to be known because of the infinity of knowledge",
+"words" : "Tadā: then; sarva: all; āvaraṇa: covering; mala: impurity; apetasya: of one from which it is removed; jñānasya: of knowledge; anantyāt: infinity; jñeyam: knowable; alpam: but little"
+},
+{
+"shloka": "tatah kritarthanam parinamakramasamaptirgunanam",
+"meaning": "Thereafter, having fulfilled their purpose and after the end of the process of change, the gunas retire",
+"words" : "Tataḥ: thereafter; kṛtārthānāṃ: having fulfilled their purpose; pariṇāma: of the changes; krama: process; samāptih: end; guṇānām: of the gunas"
+},
+{
+"shloka": "kshanapratiyogi parinamaparantanirgrahyah kramah",
+"meaning": "Krama is the process corresponding to moments, apprehensible in the end",
+"words" : "Kṣaṇa: moment; pratiyogi : corresponding; pariṇāma: change; aparānta: in the end; nirgrāhyaḥ: entirely apprehensible; kramaḥ: process"
+},
+{
+"shloka": "purusharthashunyanam gunanam pratiprasavah kaivalyam svarupapratishtha va chitishaktiriti",
+"meaning": "Kaivalya is the involution of the gunas because of the fulfilment of their purpose; or it is the restoration of the purusha to its natural form which is pure consciousness",
+"words" : "Puruṣārtha: purpose of the purusha; śūnyānāṃ: devoid of; guṇānāṃ: of the gunas; pratiprasavaḥ: involution; kaivalyaṃ: liberation; svarūpa: one’s own nature; pratiṣṭhā: establishment; vā: or; chitśakteḥ: purusah; iti: that’s all"
+}
+]
+]
