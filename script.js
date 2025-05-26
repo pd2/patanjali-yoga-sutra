@@ -16,7 +16,7 @@ let patanjali_yoga_sutra;
 
 async function get_yoga_sutra() {
   
-  let responses = await fetch('/patanjali_yoga_sutra.txt');
+  let responses = await fetch('patanjali_yoga_sutra.txt');
   
   patanjali_yoga_sutra = await responses.json();
   
