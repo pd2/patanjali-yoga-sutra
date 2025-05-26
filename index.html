@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GY8DPP7793"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-GY8DPP7793');
+    </script>
+    
+    <title>Yoga Sutra</title>
+    <link rel="icon" href="https://cdn.glitch.global/23de2edf-a372-411a-a286-c657f7807502/icon-yoga-sutra.jpg"  type="image/x-icon">
+    <link rel="manifest" href="/manifest.json" />
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <h1>
+      Yoga Sutra
+    </h1>
+    <p id="info">
+      Guess the meaning of a verse from the Patanajali's Yoga Sutra. 
+      <br>
+      <br> Click the start game button to begin
+    </p>
+    <button type="button" class="button" id="start">
+      Start Game <i class="rocket"></i>
+    </button>
+    <p id="reference"></p>
+    <p id="quote"></p>
+    <p id="message"></p>
+    
+    <p class="tooltip"><div>
+      <button id="share" onclick="ShareIt()" onmouseout="outFunc()">
+      <span class="tooltiptext" id="myTooltip">Copy to clipboard</span>
+      
+      </button>
+    </div></p>
+    <p id="meaning"></p>
+    <p id="words"></p>
+  
+    <div id="list_choices"><ul>  
+    <template id="choice_item">
+      <li class="item"></li>
+    </template>
+    </ul>
+    </div>
+ 
+    <div id="dialog" class="dialog">
+      <div id="guess-distribution"></div>
+    </div>
+  
+    <canvas id="histogram" width="200" height="200"></canvas>
+ 
+    <main>
+    <p id="settings"><div>
+      Shloka progression:
+    <input type="radio" id="rand" name="is_rand" value="1"><label for="rand"> Random </label>
+    <input type="radio" id="seq"  name="is_rand" value="0" checked="checked"><label for="seq"> Sequential </label>
+    </div></p>
+    </main>
+    <script>
+      if ("serviceWorker" in navigator) {
+        window.addEventListener("load", function() {
+          navigator.serviceWorker
+            .register("/serviceWorker.js")
+            .then(res => console.log("service worker registered"))
+            .catch(err => console.log("service worker not registered", err))
+        })
+      }
+    </script>
+  </body>
+  <footer>
+    <span style="white-space: nowrap"> &copy; 2023 <a href="https://www.pradeepd.com/hobbies/apps">Pradeep D</a>, <a href="https://www.iseek.page">iSeek</a>. Ref: Swami Satyananda Saraswati, "Four Chapters on Freedom" </span>
+    <br> <a href="https://www.buymeacoffee.com/pradeepde">Buy me a coffee</a>
+  </footer>
+  
+</html>
