@@ -1,5 +1,5 @@
 const staticDev = "yoga_sutra"
-const service_worker_version = "v2.0"
+const service_worker_version = "v2.1"
 const assets = [
   "/",
   "index.html",
